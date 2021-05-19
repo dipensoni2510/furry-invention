@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "url": "dashboard-analytics",
+      "name": "Dashboard",
+      "slug": "dashboard",
+      "icon": "feather icon-home",
+      "i18n": "Dashboard"
+    },
+    {
+      "url": "",
+      "name": "User Dashboard",
+      "icon": "feather icon-zap",
+      "submenu": [
+        {
+          "url": "user-dashboard",
+          "name": "User View",
+          "i18n": "nav.sk_layout_2_columns"
+        }
+      ]
+    }
+  ]
+}

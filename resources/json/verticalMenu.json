@@ -1,0 +1,64 @@
+{
+    "adminmenu": [
+        {
+            "url": "home",
+            "name": "Dashboard",
+            "slug": "dashboard",
+            "badge": "2",
+            "badgeClass": "badge badge-warning badge-pill float-right",
+            "icon": "fa fa-home"
+        },
+        {
+            "url": "users",
+            "name": "Users",
+            "slug": "user-dashboard",
+            "icon": "feather icon-user"
+        },
+        {
+            "url": "companies",
+            "name": "Company",
+            "slug": "companies",
+            "icon": "fa fa-building"
+        },
+        {
+            "url": "features",
+            "name": "Features",
+            "slug": "features",
+            "icon": "fa fa-list-ul"
+        },
+        {
+            "url": "vehicles",
+            "name": "Vehicle",
+            "slug": "features",
+            "icon": "fa fa-car"
+        },
+        {
+            "url": "orders",
+            "name": "Orders",
+            "slug": "features",
+            "icon": "fa fa-cart-arrow-down"
+        }
+    ],
+    "clientmenu": [
+        {
+            "url": "home",
+            "name": "Dashboard",
+            "slug": "dashboard",
+            "badge": "2",
+            "badgeClass": "badge badge-warning badge-pill float-right",
+            "icon": "fa fa-home"
+        },
+        {
+            "url": "vehicles",
+            "name": "Vehicle",
+            "slug": "features",
+            "icon": "fa fa-car"
+        },
+        {
+            "url": "orders",
+            "name": "Orders",
+            "slug": "features",
+            "icon": "fa fa-cart-arrow-down"
+        }
+    ]
+}
